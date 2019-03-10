@@ -1,2 +1,2 @@
 # -*- coding: UTF-8 -*-
-print "你好， Python"
+print('你好， Python')
